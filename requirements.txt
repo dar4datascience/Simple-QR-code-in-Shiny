@@ -1,0 +1,7 @@
+shiny
+shiny_semantic
+qrcode
+
+black
+flake8
+isort
